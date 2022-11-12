@@ -461,7 +461,7 @@ https://templatemo.com/tm-540-lava-landing-page
                     target="_blank"
                     href="https://www.instagram.com/matheus_salermo11/"
                     ><img
-                      src="./assets/images/instagram.png"
+                      src="https://avatars.githubusercontent.com/u/56123742?v=4"
                       class="redeFoto"
                       alt=""
                   /></a>
@@ -522,7 +522,7 @@ https://templatemo.com/tm-540-lava-landing-page
                     target="_blank"
                     href="https://www.instagram.com/aka.pauloo/"
                     ><img
-                      src="./assets/images/instagram.png"
+                      src="https://avatars.githubusercontent.com/u/111135881?v=4"
                       class="redeFoto"
                       alt=""
                   /></a>
