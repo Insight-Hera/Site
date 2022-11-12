@@ -1,9 +1,164 @@
 html {
-    scroll-behavior: smooth;
-    font-family: Helvetica, sans-serif, Arial;
+  scroll-behavior: smooth;
+  font-family: Helvetica, sans-serif, Arial;
 }
 
 body {
-    margin: 0 auto;
-    background-color: #222;
+  margin: 0 auto;
+  background-color: #222;
 }
+.titleIntegrantes {
+  font-size: 30px;
+  padding: 15px;
+  color: black;
+  padding-bottom: 15px;
+}
+.integrantes {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  background-color: white;
+  padding: 15px;
+  box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%);
+  border-radius: 10px;
+}
+.linhaIntegrantes {
+  display: flex;
+  width: 100%;
+  height: 50%;
+  align-items: center;
+  padding: 8px;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.cardIntegrante {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 230px;
+  border-radius: 10px;
+  gap: 10px;
+  height: 100%;
+  padding: 15px;
+  background-color: white;
+  box-shadow: 0 0 15px 0 rgb(0 0 0 / 15%);
+}
+
+.foto {
+  width: 90%;
+  height: 90%;
+}
+.nome {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.sobreResumido {
+  font-size: 15px;
+  height: 40px;
+}
+
+@media only screen and (max-width: 768px) {
+  .integrantes {
+    box-shadow: none;
+    padding: 0 5px;
+  }
+
+  .linhaIntegrantes {
+    flex-wrap: wrap;
+    row-gap: 25px;
+  }
+
+  .cardIntegrante {
+    width: 170px;
+    gap: 5px;
+  }
+
+  .nome {
+    font-size: 15px;
+  }
+
+  .sobreResumido {
+    font-size: 12px;
+    height: 50px;
+  }
+}
+
+.redes {
+  display: flex;
+  flex-direction: row;
+  height: 10%;
+  width: 100%;
+  margin-top: 8px;
+  justify-content: space-between;
+}
+.redeFoto {
+  height: 35px;
+}
+.imgFoto {
+  border-radius: 10px;
+}
+
+/* Section Pulseira */
+
+.pulseira {
+  width: 100%;
+  height: 100%;
+  margin-top: 100px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.pulseira.container {
+  align-items: flex-start;
+}
+
+.pulseira .container-texts {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.pulseira .container-image {
+  width: 50%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.pulseira .container-image img {
+  border-radius: 5%;
+  width: 80%;
+}
+
+@media only screen and (max-width: 768px) {
+    .pulseira {
+      flex-direction: column;
+      align-items: center;
+    }   
+
+    .pulseira.container {
+        margin-bottom: 50px;
+    }
+
+    .pulseira .container-texts {
+        width: 100%;
+    }
+
+    .pulseira .container-image {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .pulseira .container-image img {
+        width: 100%;    
+    }
+  }
