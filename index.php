@@ -143,7 +143,7 @@ https://templatemo.com/tm-540-lava-landing-page
           >
             <div class="features-item">
               <div class="features-icon">
-                <img src="assets/images/usabilidade.png" alt="" />
+                <img src="./assets/images/usabilidade.png" alt="" />
                 <h4>Usabilidade</h4>
                 <p>
                   Feito com um Layout extremamente intuitivo, o aplicativo HERA é de fácil usabilidade para o usuário. 
@@ -195,7 +195,7 @@ https://templatemo.com/tm-540-lava-landing-page
               <li
                 data-scroll-reveal="enter right move 30px over 0.6s after 0.4s"
               >
-                <img src="assets/images/button.png" alt="" width="120"/>
+                <img src="./assets/images/button.png" alt="" width="120"/>
                 <div class="text">
                   <h4>Botão de Pânico</h4>
                   <p>
@@ -209,12 +209,12 @@ https://templatemo.com/tm-540-lava-landing-page
               <li
                 data-scroll-reveal="enter right move 30px over 0.6s after 0.6s"
               >
-                <img src="assets/images/call.png" alt="" width="120" />
+                <img src="./assets/images/call.png" alt="" width="120" />
                 <div class="text">
                   <h4>Contatos Emergenciais</h4>
                   <p>
                     Nosso aplicativo conta com uma área para cadastro de
-                    contatos emergenciais, esses contatos receberão as
+                    contatos emergenciais, esses contatos receberão asa
                     informações enviadas pelo App, de forma rápida e efetiva.
                   </p>
                 </div>
@@ -222,7 +222,7 @@ https://templatemo.com/tm-540-lava-landing-page
               <li
                 data-scroll-reveal="enter right move 30px over 0.6s after 0.5s"
               >
-                <img src="assets/images/mapa.png" alt="" width="120"/>
+                <img src="./assets/images/mapa.png" alt="" width="120"/>
                 <div class="text">
                   <h4>Sistema de Geolocalização</h4>
                   <p>
