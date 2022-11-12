@@ -127,7 +127,7 @@ https://templatemo.com/tm-540-lava-landing-page
           >
             <div class="features-item">
               <div class="features-icon">
-                <img src="assets/images/segurança.png" alt="" />
+                <img src="./assets/images/segurança.png" alt="" />
                 <h4>Segurança</h4>
                 <p>
                   O aplicativo desenvolvido conta com um sistema de segurança altamente avançado, no qual ninguém além de você mesma e a empresa responsável, 
@@ -183,7 +183,7 @@ https://templatemo.com/tm-540-lava-landing-page
             data-scroll-reveal="enter left move 30px over 0.6s after 0.4s"
           >
             <img
-              src="assets/images/left-image.png"
+              src="./assets/images/left-image.png"
               class="rounded img-fluid d-block mx-auto"
               alt="App"
             />
