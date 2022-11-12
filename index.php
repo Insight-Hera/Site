@@ -551,7 +551,7 @@ https://templatemo.com/tm-540-lava-landing-page
         </div>
 
         <div class="container-image">
-            <img src="assets/images/pulseira.png" alt="Pulseira"/>
+            <img src="./assets/images/pulseira.png" alt="Pulseira"/>
         </div>
     </section>
 
