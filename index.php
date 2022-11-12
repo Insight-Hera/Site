@@ -158,7 +158,7 @@ https://templatemo.com/tm-540-lava-landing-page
           >
             <div class="features-item">
               <div class="features-icon">
-                <img src="assets/images/acessibilidade.png" alt="" />
+                <img src="./assets/images/acessibilidade.png" alt="" />
                 <h4>Acessibilidade</h4>
                 <p>
                   Visando atingir um público maior, o App foi desenvolvido para se adequar a dispositivos Android e IOS, 
