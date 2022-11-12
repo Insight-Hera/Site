@@ -78,10 +78,6 @@ https://templatemo.com/tm-540-lava-landing-page
                 <li class="scroll-to-section">
                   <a href="#testimonials" class="menu-item">Sobre nós</a>
                 </li>
-
-                <li class="scroll-to-section">
-                  <a href="#contact-us" class="menu-item">Feedback</a>
-                </li>
               </ul>
               <a class="menu-trigger">
                 <span>Menu</span>
@@ -104,7 +100,7 @@ https://templatemo.com/tm-540-lava-landing-page
               class="left-text col-lg-6 col-md-12 col-sm-12 col-xs-12"
               data-scroll-reveal="enter left move 30px over 0.6s after 0.4s"
             >
-              <h1>HERA, Segurança e Acessibilidade.</h1>
+              <h1>Hera, Segurança e Acessibilidade.</h1>
               <p style="max-width: 85%">
                 Envio da sua localização em tempo real, acompanhamento remoto do
                 seu posicionamento, noticias urgentes e sempre atualizadas.
@@ -134,9 +130,9 @@ https://templatemo.com/tm-540-lava-landing-page
                 <img src="assets/images/segurança.png" alt="" />
                 <h4>Segurança</h4>
                 <p>
-                  Nosso aplicativo conta com um sistema de segurança altamente
-                  avançado, feito especialmente para salvar suas informações, da
-                  maneira mais efetiva possível.
+                  O aplicativo desenvolvido conta com um sistema de segurança altamente avançado, no qual ninguém além de você mesma e a empresa responsável, 
+                  poderá ter acesso aos dados inseridos. 
+
                 </p>
               </div>
             </div>
@@ -150,9 +146,8 @@ https://templatemo.com/tm-540-lava-landing-page
                 <img src="assets/images/usabilidade.png" alt="" />
                 <h4>Usabilidade</h4>
                 <p>
-                  Feito com um Layout extremamente intuitivo, o aplicativo HERA
-                  é de fácil usabilidade para o usuário, sendo também compatível
-                  com diversos sistemas operacionais
+                  Feito com um Layout extremamente intuitivo, o aplicativo HERA é de fácil usabilidade para o usuário. 
+                  O cadastro pode ser feito se registrando no próprio App, ou por uma conta Google.
                 </p>
               </div>
             </div>
@@ -163,12 +158,11 @@ https://templatemo.com/tm-540-lava-landing-page
           >
             <div class="features-item">
               <div class="features-icon">
-                <img src="assets/images/cash.png" alt="" />
-                <h4>Baixo custo</h4>
+                <img src="assets/images/acessibilidade.png" alt="" />
+                <h4>Acessibilidade</h4>
                 <p>
-                  Utilize o aplicativo HERA de maneira COMPLETAMENTE GRATUITA,
-                  sem taxas ou custos adicionais, ou, opte por assinar um dos
-                  planos e adquirir a nossa pulseira exclusiva
+                  Visando atingir um público maior, o App foi desenvolvido para se adequar a dispositivos Android e IOS, 
+                  podendo ser usufruído por grande parte das pessoas que possuam um aparelho celular. 
                 </p>
               </div>
             </div>
@@ -183,7 +177,7 @@ https://templatemo.com/tm-540-lava-landing-page
     <!-- ***** Features Big Item Start ***** -->
     <section class="section" id="promotion">
       <div class="container">
-        <div class="row">
+        <div class="row" id="about">
           <div
             class="left-image col-lg-5 col-md-12 col-sm-12 mobile-bottom-fix-big"
             data-scroll-reveal="enter left move 30px over 0.6s after 0.4s"
@@ -201,7 +195,7 @@ https://templatemo.com/tm-540-lava-landing-page
               <li
                 data-scroll-reveal="enter right move 30px over 0.6s after 0.4s"
               >
-                <img src="assets/images/button.png" alt="" />
+                <img src="assets/images/button.png" alt="" width="120"/>
                 <div class="text">
                   <h4>Botão de Pânico</h4>
                   <p>
@@ -215,7 +209,7 @@ https://templatemo.com/tm-540-lava-landing-page
               <li
                 data-scroll-reveal="enter right move 30px over 0.6s after 0.6s"
               >
-                <img src="assets/images/contact.png" alt="" width="100px" />
+                <img src="assets/images/call.png" alt="" width="120" />
                 <div class="text">
                   <h4>Contatos Emergenciais</h4>
                   <p>
@@ -228,7 +222,7 @@ https://templatemo.com/tm-540-lava-landing-page
               <li
                 data-scroll-reveal="enter right move 30px over 0.6s after 0.5s"
               >
-                <img src="assets/images/mapa.png" alt="" />
+                <img src="assets/images/mapa.png" alt="" width="120"/>
                 <div class="text">
                   <h4>Sistema de Geolocalização</h4>
                   <p>
@@ -548,11 +542,11 @@ https://templatemo.com/tm-540-lava-landing-page
 
     <section class="pulseira container">
         <div class="container-texts">
-            <h2>Pulseira</h2>
+            <h2>Acessórios integrados a HERA</h2>
             <p>
-                A pulseira HERA é um dispositivo que conta com um sistema de
-                geolocalização, que, ao ser ativado, envia a localização do
-                usuário para os contatos cadastrados no aplicativo HERA.
+              A pulseira é um protótipo desenvolvido para ser utilizada em conjunto com o aplicativo HERA. 
+              Ao invés de ter que abrir o App e clicar no botão de pânico pelo mesmo em alguma emergência, 
+              você só precisará de um clique no botão integrado à pulseira, para utilizar as funções propostas.
             </p>
         </div>
 
@@ -568,7 +562,7 @@ https://templatemo.com/tm-540-lava-landing-page
         <div class="footer-content">
           <div class="row">
             <!-- ***** Contact Form Start ***** -->
-            <div class="col-lg-6 col-md-12 col-sm-12">
+            <!-- <div class="col-lg-6 col-md-12 col-sm-12">
               <div class="contact-form">
                 <form
                   id="contact"
@@ -626,9 +620,9 @@ https://templatemo.com/tm-540-lava-landing-page
                   </div>
                 </form>
               </div>
-            </div>
+            </div> -->
             <!-- ***** Contact Form End ***** -->
-            <div class="right-content col-lg-6 col-md-12 col-sm-12">
+            <!-- <div class="right-content col-lg-6 col-md-12 col-sm-12">
               <h2>Nos envie o seu feedback!</h2>
               <p>
                 Gostou do Site? Curtiu o Aplicativo? Tem criticas,
@@ -667,14 +661,14 @@ https://templatemo.com/tm-540-lava-landing-page
                   ></a>
                 </li>
               </ul>
-            </div>
+            </div> -->
           </div>
         </div>
         <div class="row">
           <div class="col-lg-12">
             <div class="sub-footer">
               <p>
-                &copy; <a href="#">INSIGHT</a>, Todos os Direitos Reservados
+                &copy; <a href="#">HERA</a>, Todos os Direitos Reservados
               </p>
             </div>
           </div>
